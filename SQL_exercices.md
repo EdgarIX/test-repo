@@ -1,1 +1,2 @@
-1. Create a table called Actors, including id, name, city and adress. This attributes are all text based. 
+1. Create a table called Actors, including id, name, city and adress. The attributes are all text based. 
+2. Extract actors from Paris, show name and adress only. 
